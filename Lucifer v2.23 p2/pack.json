@@ -1,0 +1,41 @@
+{
+    "Signal Jammer": {
+        "id": "signal_jammer",
+        "items": [
+            226
+        ],
+        "price": 2000
+    },
+    "Small Seed Pack Collection": {
+        "id": "small_seed_pack_collection",
+        "items": [
+            5706
+        ],
+        "price": 1000
+    },
+    "UbiCrate": {
+        "id": "ubiweek_item_ubisoft_chest",
+        "items": [
+            13160
+        ],
+        "price": 25000
+    },
+    "WhiteList": [
+        1058,
+        1094,
+        1096,
+        1098,
+        1828,
+        3870,
+        7058,
+        11286,
+        13890
+    ],
+    "World Lock": {
+        "id": "world_lock",
+        "items": [
+            242
+        ],
+        "price": 2000
+    }
+}

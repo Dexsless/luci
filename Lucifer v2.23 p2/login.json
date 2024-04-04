@@ -1,0 +1,14 @@
+{
+    "auto_login": true,
+    "auto_open_browser": false,
+    "captcha_api": 0,
+    "captcha_api_key": "",
+    "gui_animations": false,
+    "hide_sensitive_datas": false,
+    "license": "LUCIPwmp0xynzBGu",
+    "password": "Dann010707",
+    "run_startup_script": false,
+    "theme": 3,
+    "use_auth": true,
+    "username": "kagenoujawa"
+}
